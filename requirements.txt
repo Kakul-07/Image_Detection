@@ -1,0 +1,30 @@
+# Deep Learning
+
+torch
+torchvision
+
+# Data Processing
+
+numpy
+pandas
+scikit-learn
+
+# Image Processing
+
+Pillow
+
+# Data Visualization
+
+matplotlib
+seaborn
+
+# Jupyter Notebook
+
+jupyter
+ipykernel
+
+# API (FastAPI inference service)
+
+fastapi
+uvicorn[standard]
+python-multipart
